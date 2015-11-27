@@ -1,0 +1,32 @@
+{
+  "name": "qqexp_sdk",
+  "description": "qqexp sdk",
+  "version": "0.0.1",
+  "homepage": "https://github.com/yxdh4620/qqexp_sdk",
+  "author": {
+    "name": "yxdh4620",
+    "email": "yxdh4620@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yxdh4620/qqexp_sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yxdh4620/qqexp_sdk/issues"
+  },
+  "licenses": [
+    {
+      "type": "NA",
+      "url": "https://github.com/yxdh4620/qqexp_sdk/blob/master/LICENSE-NA"
+    }
+  ],
+  "main": "./lib/cryption.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": []
+}
